@@ -1,0 +1,18 @@
+<svg xmlns="http://www.w3.org/2000/svg" version="1.1" xmlns:xlink="http://www.w3.org/1999/xlink"
+    xmlns:svgjs="http://svgjs.dev/svgjs" viewBox="0 0 1422 800">
+    <defs>
+        <linearGradient x1="50%" y1="0%" x2="50%" y2="100%" id="oooscillate-grad">
+            <stop stop-color="hsl(206, 75%, 49%)" stop-opacity="1" offset="0%"></stop>
+            <stop stop-color="hsl(331, 90%, 56%)" stop-opacity="1" offset="100%"></stop>
+        </linearGradient>
+    </defs>
+    <g stroke-width="20" stroke="hsl(0, 0%, 100%)" fill="none" stroke-linecap="round">
+        <path d="M 0 488 Q 355.5 -100 711 400 Q 1066.5 900 1422 488" opacity="0.22"></path>
+        <path d="M 0 427 Q 355.5 -100 711 400 Q 1066.5 900 1422 427" opacity="0.17"></path>
+        <path d="M 0 366 Q 355.5 -100 711 400 Q 1066.5 900 1422 366" opacity="0.95"></path>
+        <path d="M 0 305 Q 355.5 -100 711 400 Q 1066.5 900 1422 305" opacity="0.68"></path>
+        <path d="M 0 244 Q 355.5 -100 711 400 Q 1066.5 900 1422 244" opacity="0.19"></path>
+        <path d="M 0 183 Q 355.5 -100 711 400 Q 1066.5 900 1422 183" opacity="0.27"></path>
+        <path d="M 0 122 Q 355.5 -100 711 400 Q 1066.5 900 1422 122" opacity="0.14"></path>
+    </g>
+</svg>

@@ -9,19 +9,43 @@
     "preview": "vite preview"
   },
   "dependencies": {
+    "@devexperts/remote-data-ts": "^2.1.1",
     "@elemaudio/core": "^1.0.8",
     "@elemaudio/web-renderer": "^1.0.16",
+    "@tanstack/react-query": "^4.16.1",
+    "eslint": "^8.7.0",
     "fp-ts": "^2.13.1",
     "goober": "^2.1.11",
+    "io-ts": "^2.2.19",
+    "io-ts-types": "^0.5.19",
+    "prop-types": "^15.8.1",
     "react": "^18.2.0",
-    "react-dom": "^18.2.0"
+    "react-dom": "^18.2.0",
+    "react-lottie": "^1.2.3",
+    "react-router-dom": "^6.4.3",
+    "ts-pattern": "^4.0.6",
+    "valtio": "^1.7.6",
+    "webmidi": "^3.0.22"
   },
   "devDependencies": {
     "@types/react": "^18.0.24",
     "@types/react-dom": "^18.0.8",
+    "@types/react-lottie": "^1.2.6",
+    "@typescript-eslint/eslint-plugin": "^5.0.0",
+    "@typescript-eslint/parser": "^5.0.1",
     "@vitejs/plugin-react": "^2.2.0",
     "babel-plugin-transform-goober": "^1.2.0",
-    "typescript": "^4.6.4",
+    "eslint-config-standard-with-typescript": "^23.0.0",
+    "eslint-plugin-import": "^2.25.2",
+    "eslint-plugin-n": "^15.0.0",
+    "eslint-plugin-promise": "^6.0.0",
+    "eslint-plugin-react": "^7.31.11",
+    "prettier": "^2.5.1",
+    "typescript": "^4.4.4",
     "vite": "^3.2.3"
-  }
+  },
+  "main": "index.js",
+  "repository": "https://github.com/Kevin-Shallvari/sequence-s-vite.git",
+  "author": "Kevin-Shallvari-Tot <kshallvari@gmail.com>",
+  "license": "MIT"
 }
